@@ -47,7 +47,7 @@ namespace SmartHomeController
             Console.WriteLine($"Colour now set to {Colour}");
         }
 
-        public override void GetStatus()
+        public override void GetStatus() 
        
     }
 }
